@@ -1,0 +1,6 @@
+{
+  "name": "Drift — Calm, ADHD-Friendly Planner",
+  "description": "A calm, ADHD-friendly planner app that turns scattered ideas into a clear path with gentle productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
